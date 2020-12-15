@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "web-fundamental"
+    }
+  },
+  "defaultProject": "web-fundamental",
+  "cli": {
+    "analytics": "366b91c1-eaec-48cd-b5d8-9b3c1a2d0752"
+  }
 }
